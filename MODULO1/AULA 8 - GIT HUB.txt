@@ -1,0 +1,10 @@
+AULA 8 - GITHUB
+
+Professor: Bruno Feitosa (Professor de Python e Dados no ADA)
+
+O que é o github e a diferença entre git e github.
+
+Github é uma plataforma de hospedar codigo, virando até um "curriculo" para mostrar os códigos e projetos que realizamos.
+Ferramenta para estudo, estudando outros códigos.
+
+Git é versonamento e github é plataforma.

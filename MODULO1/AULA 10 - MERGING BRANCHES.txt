@@ -1,0 +1,13 @@
+AULA 10 - MERGING BRANCHES
+
+Professor: Bruno Feitosa (Professor de Python e Dados no ADA)
+
+Git merge - unir as ramificações (branch)
+
+git branch
+//lista as branches existentes
+
+git merge (nome brach)
+// mostra os arquivos e junta as alterações realizada na outra branch
+
+Merge - unir fluxos separados em apenas um.

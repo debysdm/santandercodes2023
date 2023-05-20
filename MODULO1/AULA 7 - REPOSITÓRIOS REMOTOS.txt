@@ -1,0 +1,23 @@
+AULA 7 - REPOSITORIOS REMOTOS
+
+Professor: Bruno Feitosa (Professor de Python e Dados no ADA)
+
+COMANDO GIT PUSH	
+
+Passos:
+git add .
+git commit -m "mensagem"
+git remote
+	//local
+git push 
+	//git push origin master
+
+Após a alteraçãos dos arquivos podemos mandar o arquivo para o github
+
+git pull
+//puxar as informações do repositorio remoto e adicona mudanças
+
+git fetch
+//verifica as mudanças que possam ter no repostirio antes de adcionar
+
+Interessante fazer um git fecth e diff antes de fazer um git pull, assim verificamos as alterações antes de colocar no nosso repositório. 

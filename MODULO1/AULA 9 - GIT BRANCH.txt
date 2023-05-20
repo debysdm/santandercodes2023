@@ -1,0 +1,24 @@
+AULA 9 - GIT BRANCH	
+
+Professor: Bruno Feitosa (Professor de Python e Dados no ADA)
+
+Branch ramificações que podemos fazer no desenvolvimento do nosso codigo.
+Desenvolvimento pararelo de um mesmo projeto.
+
+git branch (nome)
+//cria uma nova branch
+
+git log --oneline --decorate
+//indica a head onde estamos
+
+git checkout (branch que queremos ir)
+//Entra na branch que queremos entrar
+
+.gitignore
+//arquivos que o git irá ignorado
+
+
+**q sair
+
+
+

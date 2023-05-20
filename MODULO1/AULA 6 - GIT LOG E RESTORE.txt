@@ -1,0 +1,16 @@
+AULA 6 - GIT LOG E RESTORE
+
+Professor: Bruno Feitosa (Professor de Python e Dados no ADA)
+
+COMANDOS LOG E RESTORE
+
+git add.
+git commit -m "mensagem"
+git log
+	//trazer o histórico dos commits realizados
+
+
+git restore
+	//remover a ultima motificicação realizada
+git restore --staged
+	//trazer o arquivo da area staged para area changes
