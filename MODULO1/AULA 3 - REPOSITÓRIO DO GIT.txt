@@ -1,3 +1,20 @@
 AULA 3 - REPOSITÓRIO DO GIT
 
 Professor: Bruno Feitosa (Professor de Python e Dados no ADA)
+
+Como usar os repositorios git clonar ou criar.
+
+CLONAR
+No github, dentro do repositório que deseja ser clonado ir no botão "CODE" e dentro de HTTPS copiar o link.
+Criar uma pasta no computador.
+	PROMPT DE COMANDO
+	cd + caminho da pasta criada 
+	//Irá entrar na pasta
+	git clone + link do repostirorio do github que deseja clonar (botão direito no mouse para colar)
+	//Irá clonar o repositório
+	
+CRIAR	
+no VSCode ou no CMD
+//Dentro da pasta
+comando - git init
+//irá criar um repositório git

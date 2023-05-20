@@ -1,0 +1,14 @@
+AULA 5 - GIT DIFF, COMMIT E RM
+
+Professor: Bruno Feitosa (Professor de Python e Dados no ADA)
+
+Aprender os comandos DIFF e COMMIT
+
+git diff
+	//mostra as modificações do arquivo em destaques 
+	//vermelho é a modificação anterior e verde é as linhas acrescentadas
+git diff --staged
+	//mostra as modificações depois do git add
+
+git commit -m "mensagem"
+	//arquivo recebeu commit e será salvo

@@ -1,0 +1,16 @@
+AULA 3 - GRAVANDO MUDANÇAS NO REPOSITÓRIO
+
+Professor: Bruno Feitosa (Professor de Python e Dados no ADA)
+
+ESTADOS DO GIT
+Os possiveis estados de classificação do git
+	Untracked - 
+	Unmodified - Arquivo mapeado, salvo no estado que está.
+	Modified - Arquivo modificado
+	Staged - Arquivo será preparado para o "commit"
+
+COMANDOS
+git status
+	//mostra o estado dos arquivos
+git add . ou git add (tab)
+	//Irá adicionar o arquivo para ser comitado
