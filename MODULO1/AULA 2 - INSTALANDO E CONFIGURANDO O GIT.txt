@@ -1,0 +1,21 @@
+AULA 1 - INSTALANDO E CONFIGURANDO O GIT
+
+Professor: Bruno Feitosa (Professor de Python e Dados no ADA)
+
+INTALAÇÃO DO GIT
+INTALAÇÃO DO GITHUB DESKTOP
+
+APOS A INSTALAÇÃO NO PROMPT DE COMANDO:
+git --version 
+
+O codigo --version pode ser usado para qualquer instalação feita, não apenas do git.
+
+FORMAS DE USAR O GIT:
+Pelo prompt de comando
+Pelo github Desktop
+Pelo VSCode
+
+VSCODE - CONFIGURAR
+Criar uma pasta ou não para começar a confugurar;
+*git config --global user.name "NOME"
+*git config --global user.email email@email.com.br

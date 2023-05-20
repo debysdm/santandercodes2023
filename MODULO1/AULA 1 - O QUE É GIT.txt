@@ -1,0 +1,13 @@
+AULA 1 - O QUE É GIT?
+
+Professor: Bruno Feitosa (Professor de Python e Dados no ADA)
+
+VERSONAMENTO:
+* Registro de mudanças em arquivos, que possibilita recuperação ou acesso a versções anteriores;
+* Desenvolvimento de código em colaboração com outros integrantes.
+
+O QUE É GIT?
+GIT é um sistema de versionamento de código, que guarda os registros de versão como snapshots (fotos) do estado do projeto, além da referência/caminho para essa foto.
+
+GIT E SUA OPERAÇÕES LOCAIS
+A maioria das operações feitas pelo Git são locais e por isso boa parte das operações são praticamente instantâneas devido à facilidade de acessar arquivos em seu próprio computador.
