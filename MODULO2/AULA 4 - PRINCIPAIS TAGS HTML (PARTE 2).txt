@@ -1,0 +1,7 @@
+AULA 4 - PRINCIPAIS TAGS HTML (PARTE 2)
+
+Professor: Walisson Silva (Professor Web Full Stack e Data Science)
+
+* Imagens
+* Listas
+* Tags de uso genérico (span e div)

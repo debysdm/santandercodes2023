@@ -1,0 +1,21 @@
+AULA 2 - CRIANDO A PRIMEIRA PÁGINA
+
+Professor: Walisson Silva (Professor Web Full Stack e Data Science)
+
+* Posso fazer o código HTML em um bloco de notas?
+* Vantagens do VS Code: Emmet
+* Entendendo a estrutura HTML e as principais tags do head
+
+ESTRUTURA BÁSICA
+<html>
+	<head>
+		<title>Primeira página</title>
+	</head>
+	<body>
+		<p>Isso é um parágrafo</p>
+	</body>
+</html>
+
+Salvar o arquivo = index.html 
+
+Pode ser usado até o bloco de notas e salvar com a extensão .html, porém não é pratico, já que precisa escrever todo o código. Enquando o VS Code ajuda a completar.

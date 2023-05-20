@@ -1,0 +1,11 @@
+AULA 3 - PRINCIPAIS TAGS HTML (PARTE 1)
+
+Professor: Walisson Silva (Professor Web Full Stack e Data Science)
+
+* Como inserir comentários no HTML?
+* Cabeçalhos
+* Parágrafo
+* Divisor de linha (hr) e quebra de linha (br)
+* Links
+
+Comentários <!--  -->
