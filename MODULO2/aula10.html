@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forulários HTML</title>
+</head>
+<body>
+    <main>
+        <h1>Formulários</h1>
+        <hr>
+        <br>
+
+        <form action="" method="get">
+            <div>
+                <label for="texto">Nome:</label>
+                <input type="text" id="texto" name="nome">
+                <!-- placeholder = "Insira seu nome" (uma indicação de preeenchimento)-->
+                <!-- name = JS usa para identificar o formulário -->
+            </div>
+            
+            <div>
+                <label for="senha">Senha:</label>
+                <input type="password" id="senha" name="senha">
+            </div>
+
+            <div>
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email">
+            </div>
+
+            <div>
+                <label for="data">Data de Nascimento:</label>
+                <input type="date" id="data" name="data">
+            </div>
+
+            <div>
+                <label for="hora">Horário:</label>
+                <input type="time" id="hora" name="hora">
+            </div>
+
+            <div>
+                <label for="numero">Número:</label>
+                <input type="number" id="numero" name="numero">
+            </div>
+
+            <div>
+                <label for="file">File:</label>
+                <input type="file" id="file" name="file">
+            </div>
+
+            <div>
+                <label for="url">URL:</label>
+                <input type="url" id="url" name="url">
+            </div>
+
+            <div>
+                <label for="color">Color:</label>
+                <input type="color" id="color" name="color">
+            </div>
+
+            <div>
+                <label for="range">Range:</label>
+                <input type="range" id="range" name="range">
+            </div>
+
+            <div>
+                <label for="checkbox">Checkbox:</label>
+                <input type="checkbox" id="checkbox" name="checkbox">
+            </div>
+
+            <div>
+                <label for="radio">Radoi:</label>
+                <input type="radio" id="radio" name="radio">
+            </div>
+
+            <div>
+                <label for="reset">Reset:</label>
+                <input type="reset" id="reset" name="reset">
+                <!-- Não prrecisa ter um label -->
+            </div>
+
+            <div>
+                <label for="submit">Submit</label>
+                <input type="submit" id="section" name="submit">
+                <!-- Não prrecisa ter um label -->
+            </div>
+            <!-- Textarea - caixa de texto -->
+            <textarea name="bio" id="bio" cols="30" rows="10"></textarea>
+
+            <div>
+                <select name="select" id="select">
+                    <option value="" disabled selected>Selecione uma das opções...</option>
+                    <option value="receita">Receita</option>
+                    <option value="despesa">Despesa</option>
+                    <option value="transferencia">Transferência</option>
+                </select>
+    
+            </div>
+           
+        </form>
+    </main>
+</body>
+</html>

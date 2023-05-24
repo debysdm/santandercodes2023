@@ -1,0 +1,30 @@
+AULA 10 - FORMULÁRIOS
+Professor: Walisson Silva (Professor Web Full Stack e Data Science)
+
+**Inputs
+* Propriedades (name, type, value)
+* text
+* password
+* email
+* number
+* checkbox
+* date
+* time
+* file
+* url
+* radio
+* submit
+* color
+* range
+* reset
+
+**Select
+* select
+* option
+* Props: value, selected, disabled
+
+**Textarea
+
+**Submissão
+* Action
+* Method

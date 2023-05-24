@@ -1,0 +1,7 @@
+AULA 9 - TABELAS
+
+Professor: Walisson Silva (Professor Web Full Stack e Data Science)
+
+* Cabeçalho e Corpo
+* Linhas e colunas
+* Mesclando células (linhas ou colinas)

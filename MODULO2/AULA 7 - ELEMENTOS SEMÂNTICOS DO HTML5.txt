@@ -1,0 +1,12 @@
+AULA 7 - ELEMENTOS SEMÂNTICOS DO HTML 5
+
+Professor: Walisson Silva (Professor Web Full Stack e Data Science)
+
+* header
+* main
+* aside
+* footer
+* section
+* article
+* figure
+* nav

@@ -1,0 +1,14 @@
+AULA 5 - TAGS DE FORMATAÇÃO DE TEXTO
+
+Professor: Walisson Silva (Professor Web Full Stack e Data Science)
+
+* Negrito (b, strong)
+* Itálico (i, em)
+* Sublinhado (u - Não indicado)
+* Riscado (s)
+* Destacando um texto (mark)
+* Texto pré-formatado (pre)
+* Código (code)
+* Citação (blockquote)
+* Subscreito (sub)
+* Sobrescrito (sup

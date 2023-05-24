@@ -1,0 +1,7 @@
+AULA 11 - INTEGRAÇÃO COM CSS
+
+Professor: Walisson Silva (Professor Web Full Stack e Data Science)
+
+Atributo "class" no html para que no CSS possamos fazer alterações naquela classe.
+
+Visitar o MDN
