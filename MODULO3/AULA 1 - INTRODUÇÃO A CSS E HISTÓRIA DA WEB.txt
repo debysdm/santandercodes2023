@@ -1,0 +1,17 @@
+AULA 1 - INTRODUÇÃO A CSS E HISTÓRIA DA ERB
+
+Professor: Felipe Cabral (Professor Web Full Stack e Mobile)
+
+**História da web
+	* Evolução da web
+		* Muitas tags novas para suprir necessidades
+	* Surgimento do CSS
+	* Conectando CSS ao HTML
+	* Interpretação do CSS por Diferentes navegadores
+**Criando arquivos
+	* HTML
+	* CSS
+**Como usar o CSS?
+	* Inline
+	* Tag style
+	* Arquivo Externo
