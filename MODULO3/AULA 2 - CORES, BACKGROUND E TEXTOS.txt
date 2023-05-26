@@ -1,0 +1,28 @@
+AULA 2 - CORES, BACKGROUND E TEXTOS
+
+Professor Felipe Cabral (Professor Web Full Stack e Mobile)
+
+** Trabalhando com cores
+	* Entendendo RGB
+	* Combinação das cores
+	* Resumindo cores
+** Regras
+	* background-repeat
+	* background-image
+	* background-attachment
+	* background-position
+	* text-decoratin
+	* text-transform
+	* text-ident
+	* text-align
+	* text-family
+** Fontes
+	* Fontes serifadas x fontes não serifadas
+	* Interpretação da propriedade font-family pelo Browser
+	* font- style
+	* Medidas
+		* px
+		* %
+		* em
+
+unsplash.com

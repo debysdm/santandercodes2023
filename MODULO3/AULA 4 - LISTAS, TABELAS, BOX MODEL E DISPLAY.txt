@@ -1,0 +1,33 @@
+AULA 4 - LISTAS, TABELAS, BOX MODEL E DISPLAY
+
+Professor Felipe Cabral (Professor Web Full Stack e Mobile)
+
+**Listas
+	* Não ordenadas
+	* Ordenadas
+	* Marcadores de listas
+**Tabelas
+	*Regras
+		*border-collapse
+**Box-model
+	* Regras
+		* height
+		* widht
+		* padding
+		* margin
+		* border
+		* box-sizing
+** Posicionando elementos
+	* Regras
+		* float
+		* clear
+			* position
+				* relative
+				* absolute
+				* fixed
+				* sticky
+			* Propriedade display
+				* none
+				* inline
+				* block
+				* inline-block
