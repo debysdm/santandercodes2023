@@ -28,7 +28,18 @@
     11 - Integralçai com CSS
     12 - Exercício II
 ## MODULO 3 = CSS
-
+    1 - Intridução a CSS e Histótia da Web
+    2 - Cores, Background e Textos
+    3 - Fontes, Medidas e Links
+    4 - Listas, Tabelas, Box Model e Display
+    5 - Position e Introdução à Flexbox
+    6 - Exercício I
+    7 - Flexbox e Alimhamentos
+    8 - Seletores, Responsividade e Animações
+    9 - Grid Layout e Unidade "fr"
+    10 - Compilando conceitos e criando um projeto (Parte I)
+    11 - Compilando conceitos e criando um projeto (Parte II)
+    12 - Exercício II
 ## MODULO 4 - JAVASCRPT
 
 ## MODULO 5 - REACT

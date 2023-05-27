@@ -1,0 +1,23 @@
+AULA 8 - SELETORES, RESPONSIVIDADE E ANIMAÇÕES
+
+Professor Felipe Cabral (Professor Web Full Stack e Mobile)
+
+**Seletores extras
+**Básico de responsividade
+	* Outras propriedades
+		* opacity
+		* visibily
+		* trasnform
+	* Animação
+		* @Keyframes
+			* Propriedades
+				* animation-name
+				* animation-duration
+				* animation-delay
+				* animation-iteration-count
+				* animation-direction
+				* animation-fill-mode
+				* animation-play-state
+			* Exemplo: animação de carregamento
+			* Perfomace das animações
+			* Animando hover

@@ -1,3 +1,14 @@
 AULA 7 - FLEXBOX E ALINHAMENTOS
 
 Professor Felipe Cabral (Professor Web Full Stack e Mobile)
+
+**display-flex
+	* Propriedades
+		* flex-wrap
+		* flex-direction
+		* flex - flow
+		* flex
+		* flex-gap
+		* justify-content
+		* align-items
+		* order
